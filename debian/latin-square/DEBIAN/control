@@ -1,0 +1,9 @@
+Package: latin-square
+Version: 2.0
+Architecture: amd64
+Maintainer: Victor Vinogradov <victor@gmail.com>
+Installed-Size: 44
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.0), libstdc++6 (>= 4.8)
+Section: utils
+Priority: optional
+Description: Проверка латинского квадрата

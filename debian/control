@@ -1,0 +1,16 @@
+Source: latin-square
+Section: utils
+Priority: optional
+Maintainer: Victor Vinogradov <victor@gmail.com>
+Build-Depends: debhelper (>= 12), g++
+Standards-Version: 4.6.0
+Package: latin-square
+Version: 2.0
+Architecture: amd64
+Depends: g++, libc6
+Description: Программа для проверки, является ли матрица латинским квадратом.
+
+Package: latin-square
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Проверка латинского квадрата
