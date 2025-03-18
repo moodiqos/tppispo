@@ -1,7 +1,7 @@
 Source: latin-square
 Section: utils
 Priority: optional
-Maintainer: Victor Vinogradov <victor@gmail.com>
+Maintainer: Victor Vinogradov <vit-62@bk.ru>
 Build-Depends: debhelper (>= 12), g++
 Standards-Version: 4.6.0
 Package: latin-square
